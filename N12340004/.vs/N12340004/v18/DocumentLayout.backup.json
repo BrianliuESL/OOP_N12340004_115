@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\MEGAS\\Desktop\\N12340004\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC0A7218-8239-401E-833A-F5F0EBCCD296}|N12340004\\N12340004.csproj|c:\\users\\megas\\desktop\\n12340004\\n12340004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC0A7218-8239-401E-833A-F5F0EBCCD296}|N12340004\\N12340004.csproj|solutionrelative:n12340004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A612C43-3856-4D19-86F5-E5B765EB9120}|N12340004\\N12340004.csproj|c:\\users\\megas\\desktop\\n12340004\\n12340004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A612C43-3856-4D19-86F5-E5B765EB9120}|N12340004\\N12340004.csproj|solutionrelative:n12340004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "RelativeDocumentMoniker": "N12340004\\Program.cs",
               "ToolTip": "C:\\Users\\MEGAS\\Desktop\\N12340004\\N12340004\\Program.cs",
               "RelativeToolTip": "N12340004\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T12:55:25.222Z",
+              "WhenOpened": "2026-09-17T13:15:24.631Z",
               "EditorCaption": ""
             }
           ]
